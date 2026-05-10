@@ -1,8 +1,20 @@
-# SCUM Server Manager
+<p align="center">
+  <img width="260" alt="SCUM Server Manager Logo"
+       src="https://github.com/user-attachments/assets/25a8888f-3da4-432e-b51a-3e42156b98f3">
+</p>
 
-A powerful tool for launching, monitoring, automating, and managing a dedicated SCUM server.
+<h1 align="center">SCUM Server Manager</h1>
 
-Designed for server owners who want an easier way to control their server, manage players, automate maintenance tasks, and integrate Discord administration tools.
+<p align="center">
+  A powerful tool for launching, monitoring, automating, and managing a dedicated SCUM server.
+
+  Designed for server owners who want an easier way to control their server, manage players, automate maintenance tasks, and integrate Discord administration tools.
+</p>
+
+![Platform](https://img.shields.io/badge/platform-Windows-blue)
+![.NET](https://img.shields.io/badge/.NET-8.0-purple)
+![License](https://img.shields.io/badge/license-MIT-green)
+![SCUM](https://img.shields.io/badge/Game-SCUM-red)
 
 ---
 
