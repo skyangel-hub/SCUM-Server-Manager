@@ -86,6 +86,14 @@ Control and monitor your SCUM server directly from Discord.
 
 ---
 
+## 🌐 Community Discord
+
+Join our Discord community for support, updates, bug reports, and discussions:
+
+<p align="center">  <a href="https://discord.gg/Z9UWqhJgdr">    <img src="https://img.shields.io/badge/Join%20Our%20Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Server"/>  </a></p>
+
+---
+
 # 📷 Screenshots
 
 ## Discord Commands
